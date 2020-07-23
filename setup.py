@@ -8,7 +8,7 @@ setuptools.setup(
     description="一个简单的四则运算 PyPI 上传例子",
     long_description="一个简单的 PyPI 上传测试",
     long_description_content_type="text/markdown",
-    url="https://github.com/JustDoPython/justdopython.github.io",
+    url="https://github.com/yooooyooo/demo_to_pypi",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
